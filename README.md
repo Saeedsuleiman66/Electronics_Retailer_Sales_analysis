@@ -1,10 +1,13 @@
 📊 Retail Sales Performance & Customer Analytics Pipeline
+
 📌 Project Overview
+
 This project is an End-to-End Data Pipeline designed to transform raw retail transaction data into actionable business insights. The pipeline covers the entire lifecycle of data: from automated cleaning using Python, structured storage in MySQL, to advanced analytical modeling and interactive visualization in Power BI.
 
 The goal is to analyze sales trends, profitability, and customer demographics (specifically targeting the "Senior" segment) to drive data-informed decision-making.
 
 🛠️ Tech Stack
+
 Data Cleaning & ETL: Python (Pandas)
 
 Database Management: MySQL Workbench
@@ -14,6 +17,7 @@ Analytical Modeling: SQL (Views, Window Functions, CTEs)
 Business Intelligence: Power BI (DAX, Power Query)
 
 🚀 The Data Pipeline (Architecture)
+
 1. Data Cleaning & Preprocessing (Python)
 Handled missing values and inconsistent data formats.
 
@@ -42,7 +46,9 @@ Page 1: Executive Sales Overview: A high-level view of Revenue ($55M+), Profit (
 
 Page 2: Customer & Product Deep-Dive: Featuring a Decomposition Tree to analyze revenue drivers and a Scatter Chart for price-vs-quantity correlation.
 
+
 📈 Key Insights
+
 Demographic Dominance: Customers aged 55+ (Seniors) contribute to over 52% of the total revenue.
 
 Product Performance: The Computers category is the primary revenue driver, while Cell Phones show the highest transaction frequency.
@@ -50,6 +56,7 @@ Product Performance: The Computers category is the primary revenue driver, while
 Profitability: Maintained a healthy overall profit margin of ~58%.
 
 📁 Project Structure
+
 Plaintext
 
 ├── Scripts/
